@@ -17,13 +17,13 @@ My project is a data analysis and visualization tool for Airbnb data stored in a
 - Users can filter data based on criteria such as country, price range, number of beds, bedrooms, and cancellation policy.
 # Bar Charts:
 Purpose: Bar charts are useful for comparing the frequency or value of different categories. In the context of Airbnb analysis, you might use bar charts to compare the number of reviews or average price for different property types.
-Use Case: Visualize the top 10 property types in a selected country by number of reviews.
+- Use Case: Visualize the top 10 property types in a selected country by number of reviews.
 # Pie Charts:
 Purpose: Pie charts are effective for displaying proportions or percentages of a whole. In Airbnb analysis, you could use pie charts to show the distribution of different property types or review scores for cleanliness.
-Use Case: Display the top 5 property types with the highest review scores for cleanliness in a selected country.
+- Use Case: Display the top 5 property types with the highest review scores for cleanliness in a selected country.
 # Choropleth Maps:
 Purpose: Choropleth maps allow you to visualize data geographically. In Airbnb analysis, this can be used to represent the average price of listings across different countries or regions.
-Use Case: Display the average price by country to identify geographic areas with higher or lower prices.
+- Use Case: Display the average price by country to identify geographic areas with higher or lower prices.
 # User Interaction:
 - Users can interact with the data and visualizations by selecting options from dropdown menus, sliders, and other input elements.
 - These interactions allow users to customize their analysis and focus on specific aspects of the data.
