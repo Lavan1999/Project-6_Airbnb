@@ -15,7 +15,7 @@ My project is a data analysis and visualization tool for Airbnb data stored in a
 - The project provides several visualizations, including bar charts, pie charts, and choropleth maps.
 - Visualizations include top property types by reviews, average prices by property type, and top properties with the highest review scores for cleanliness.
 - Users can filter data based on criteria such as country, price range, number of beds, bedrooms, and cancellation policy.
-#Bar Charts:
+# Bar Charts:
 Purpose: Bar charts are useful for comparing the frequency or value of different categories. In the context of Airbnb analysis, you might use bar charts to compare the number of reviews or average price for different property types.
 - Use Case: Visualize the top 10 property types in a selected country by number of reviews.
 # Pie Charts:
@@ -30,3 +30,5 @@ Purpose: Choropleth maps allow you to visualize data geographically. In Airbnb a
 # Results:
 - The application provides insights into Airbnb listings, such as popular property types, pricing trends, and cleanliness scores.
 - These insights can be valuable for both Airbnb hosts and guests.
+  
+![Dashboard 2](https://github.com/Lavan1999/Project6-Airbnb/assets/152668558/a86e8c00-ddf5-461e-bba3-55cd86467443)
