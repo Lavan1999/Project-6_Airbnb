@@ -1,4 +1,5 @@
 # Project: Airbnb Analysis
+LinkedIn Project Demo: https://www.linkedin.com/in/lavanya-s-1a3377284/recent-activity/all/ 
 
 My project is a data analysis and visualization tool for Airbnb data stored in a MongoDB database. The project is implemented using Python with the help of libraries such as Pandas, Plotly, Streamlit, and others. It provides an interactive web application where users can explore and analyze Airbnb data. Here's a brief explanation of the project:
 
